@@ -1,5 +1,9 @@
 # BMP280/BME280 module
 
+**Very inefficient way to implement all those calculations**
+
+**Please use Arduino IDE or wait for BME280 NodeMCU native library.**
+
 Library for BMP280/BME280 Digital Pressure Sensor for ESP8266 lua based firmware NodeMCU **integer** version.
 
 Due to memory limitations libraries it is better to compile (`node.compile()`) libraries so it can be use in some more complex scripts.
